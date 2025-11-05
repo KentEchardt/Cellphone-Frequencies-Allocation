@@ -1,0 +1,42 @@
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\CellFrequencyProject\bin\Debug\net9.0\CellFrequencyProject.exe
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\CellFrequencyProject\bin\Debug\net9.0\CellFrequencyProject.deps.json
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\CellFrequencyProject\bin\Debug\net9.0\CellFrequencyProject.runtimeconfig.json
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\CellFrequencyProject\bin\Debug\net9.0\CellFrequencyProject.dll
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\CellFrequencyProject\bin\Debug\net9.0\CellFrequencyProject.pdb
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\CellFrequencyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\CellFrequencyProject.AssemblyInfoInputs.cache
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\CellFrequencyProject.AssemblyInfo.cs
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\CellFrequencyProject.csproj.CoreCompileInputs.cache
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\CellFrequencyProject.dll
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\refint\CellFrequencyProject.dll
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\CellFrequencyProject.pdb
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\CellFrequencyProject.genruntimeconfig.cache
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\ref\CellFrequencyProject.dll
+C:\Users\MentorLuffy\OneDrive - digicall.co.za\CellFrequencyProject\bin\Debug\net9.0\CellFrequencyProject.exe
+C:\Users\MentorLuffy\OneDrive - digicall.co.za\CellFrequencyProject\bin\Debug\net9.0\CellFrequencyProject.deps.json
+C:\Users\MentorLuffy\OneDrive - digicall.co.za\CellFrequencyProject\bin\Debug\net9.0\CellFrequencyProject.runtimeconfig.json
+C:\Users\MentorLuffy\OneDrive - digicall.co.za\CellFrequencyProject\bin\Debug\net9.0\CellFrequencyProject.dll
+C:\Users\MentorLuffy\OneDrive - digicall.co.za\CellFrequencyProject\bin\Debug\net9.0\CellFrequencyProject.pdb
+C:\Users\MentorLuffy\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\CellFrequencyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MentorLuffy\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\CellFrequencyProject.AssemblyInfoInputs.cache
+C:\Users\MentorLuffy\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\CellFrequencyProject.AssemblyInfo.cs
+C:\Users\MentorLuffy\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\CellFrequencyProject.csproj.CoreCompileInputs.cache
+C:\Users\MentorLuffy\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\CellFrequencyProject.dll
+C:\Users\MentorLuffy\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\refint\CellFrequencyProject.dll
+C:\Users\MentorLuffy\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\CellFrequencyProject.pdb
+C:\Users\MentorLuffy\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\CellFrequencyProject.genruntimeconfig.cache
+C:\Users\MentorLuffy\OneDrive - digicall.co.za\CellFrequencyProject\obj\Debug\net9.0\ref\CellFrequencyProject.dll
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\Cellphone project\CellFrequencyAllocation\bin\Debug\net9.0\CellFrequencyProject.exe
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\Cellphone project\CellFrequencyAllocation\bin\Debug\net9.0\CellFrequencyProject.deps.json
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\Cellphone project\CellFrequencyAllocation\bin\Debug\net9.0\CellFrequencyProject.runtimeconfig.json
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\Cellphone project\CellFrequencyAllocation\bin\Debug\net9.0\CellFrequencyProject.dll
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\Cellphone project\CellFrequencyAllocation\bin\Debug\net9.0\CellFrequencyProject.pdb
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\Cellphone project\CellFrequencyAllocation\obj\Debug\net9.0\CellFrequencyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\Cellphone project\CellFrequencyAllocation\obj\Debug\net9.0\CellFrequencyProject.AssemblyInfoInputs.cache
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\Cellphone project\CellFrequencyAllocation\obj\Debug\net9.0\CellFrequencyProject.AssemblyInfo.cs
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\Cellphone project\CellFrequencyAllocation\obj\Debug\net9.0\CellFrequencyProject.csproj.CoreCompileInputs.cache
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\Cellphone project\CellFrequencyAllocation\obj\Debug\net9.0\CellFrequencyProject.dll
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\Cellphone project\CellFrequencyAllocation\obj\Debug\net9.0\refint\CellFrequencyProject.dll
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\Cellphone project\CellFrequencyAllocation\obj\Debug\net9.0\CellFrequencyProject.pdb
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\Cellphone project\CellFrequencyAllocation\obj\Debug\net9.0\CellFrequencyProject.genruntimeconfig.cache
+C:\Users\Kent.Echardt\OneDrive - digicall.co.za\Cellphone project\CellFrequencyAllocation\obj\Debug\net9.0\ref\CellFrequencyProject.dll
